@@ -1,0 +1,11 @@
+{
+  "name": "khanz094-views",
+  "main": "src/index.js",
+  "compatibility_date": "2026-08-01",
+  "kv_namespaces": [
+    {
+      "binding": "VIEWS",
+      "id": "DÁN_ID_KV_NAMESPACE_VÀO_ĐÂY"
+    }
+  ]
+}
