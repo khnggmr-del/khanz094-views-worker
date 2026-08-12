@@ -1,5 +1,5 @@
 {
-  "name": "khanz094-views",
+  "name": "khanz094-views-worker",
   "main": "src/index.js",
   "compatibility_date": "2026-08-01",
   "kv_namespaces": [
